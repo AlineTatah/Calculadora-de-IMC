@@ -22,3 +22,6 @@ elif IMC >=25 and IMC <=29.9 :
 elif IMC >=30 and IMC <=39.9 :
   print('Obesidade grau 1')
 
+else:
+    print('Obesidade grau 2')
+
